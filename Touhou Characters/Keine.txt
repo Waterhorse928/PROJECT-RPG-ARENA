@@ -1,0 +1,30 @@
+Keine
+
+HP 6	DEF 3	SPD 4
+SP 12	RES 2	EVA 1
+
+Organized Formation:
+While this unit is in the front,
+all allies involved in a Form Change recover 1 SP.
+
+Ancient History - Old History
+[MAG] Cost 3 SP
+All Enemies : [DRK 3] Use opponent's DEF intead of RES.
+
+New History - Next History
+[MAG] Cost 3 SP
+All Enemies : [SPR 3]
+
+Three Treasures - Sword
+[ACT] Cost 3 SP
+All Allies : +1 ATK, MAG
+
+Three Treasures - Mirror
+[ACT] Cost 3 SP
+All Allies : +1 DEF, RES
+
+
+
+
+
+

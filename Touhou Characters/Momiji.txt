@@ -1,0 +1,16 @@
+Momiji
+
+HP 8	DEF 4	SPD 6
+SP 4	RES 2	EVA 2
+
+Ability to See Far Distances:
+While this unit is on the front,
+all allies gain +1 ACC
+
+Rabies Bite
+[ATK] Cost 1 SP
+One Enemy : [PHS 3] Ignore 1 DEF.
+
+Expellee's Canaan
+[ATK] Cost 2 SP
+All Enemies : [WND 4]

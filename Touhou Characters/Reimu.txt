@@ -1,0 +1,29 @@
+Reimu
+HP 	5
+SP	9
+Spd	5
+eva	1
+def	1
+res	1
+
+Grand Incantation:
+The turn after this unit uses concentrate, 
+This unit's skills deal 1.5 more damage and healing.
+
+Yin-Yang Orb 
+[ATK] Cost 2 SP
+Single Enemy: Spr [3] 
+
+Fantasy Seal 
+[MAG] Cost 3 SP
+All Enemies: Spr [3]
+
+Exorcising Border 
+[Act] Cost 4 SP
+All Allies in front heal 2 HP.
+
+Great Hakurei Barrier 
+[Act] Cost 4 SP
+Choose 1:
+All Allies in front gain +3 Def.
+All Allies in front gain +3 Res.

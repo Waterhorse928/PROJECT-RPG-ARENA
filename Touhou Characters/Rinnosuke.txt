@@ -1,0 +1,18 @@
+Rinnosuke
+
+HP 5	DEF 2	SPD 4
+SP 3	RES 1	EVA 1
+
+Effective Formation Change:
+When this unit Form Changes,
+The ally now in front gains +2 SPD.
+
+First Aid
+Cost: 0 SP
+[ACT] One Ally recovers 1 HP,
+Rinnosuke gains +1 SPD.
+
+Battle Command
+Cost: 1 SP
+[ACT] One Ally gains +1 ATK, SPL, DEF, RES.
+

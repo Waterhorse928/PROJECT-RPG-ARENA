@@ -1,0 +1,29 @@
+Marisa
+
+HP 3
+SP 14
+Def 0
+Res 1
+Spd 7
+Eva 3
+
+Magic Training:
+While this unit is in front,
+All Mys damage is increased by 1.
+
+Magic Missle 
+[Mag] Cost 2 SP
+Single Enemy: Mys [3]
+
+Astriod Belt 
+[Mag] Cost 6 SP
+All Enemies: Mys [3]
+
+Master Spark 
+[Mag] Cost 10 SP
+All Enemies: Mys [6]
+
+Concentration  
+[Act] Cost 3 SP
+Self: +3 [Mag]
+

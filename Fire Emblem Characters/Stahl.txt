@@ -1,0 +1,9 @@
+Stahl
+
+HP 10	DEF 2	SPD 5
+SP 10	RES 2	EVA 2
+
+The Exact Mean of the Army:
+Stat Buffs and Debuffs on this unit effect all allies.
+
+

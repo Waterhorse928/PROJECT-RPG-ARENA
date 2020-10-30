@@ -1,0 +1,24 @@
+Youmu
+
+HP 7	DEF 3	SPD 4
+SP 12	RES 1	EVA 1
+
+Sword Spirt:
+While this unit is at full health,
+Gain +2 ATK
+
+Present Life Slash
+[ATK] Cost 2
+One Enemy: [3 BLD]
+
+Slash of Eternity
+[ATK] Cost 10
+One Enemy: [7 BLD] Youmu gains -2 SPD
+
+God's Slash of Karma Wind
+[ATK] Cost 12
+All Enemies: [5 WND]
+
+Slash Clearing the Six Senses
+[ATK] Cost 8
+All Enemies: [4 WND] Youmu gains -2 SPD

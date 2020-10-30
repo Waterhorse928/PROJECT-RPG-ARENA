@@ -1,0 +1,20 @@
+Kogasa
+
+HP 5	DEF 3	SPD 3
+SP 8	RES 1	EVA 0
+
+Troubled Forgotten Item:
+When Kogasa attacks an enemy affected by Terror,
+She recovers 2 SP and HP. (Once per turn)
+
+Karakasa Surprising Flash
+[ATK] Cost 3
+All Enemies: [NTR 2] [40% TRR 2] 
+
+A Rainy Night's Ghost Story
+[ATK] Cost 2
+One Enemy: [DRK 4] {55% TRR 3} [-2 RES]
+
+Drizzling Large Raindrops
+[ATK] Cost 1
+All Enemies: [CLD 2]
