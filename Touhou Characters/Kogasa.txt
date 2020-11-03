@@ -9,7 +9,7 @@ She recovers 2 SP and HP. (Once per turn)
 
 Karakasa Surprising Flash
 [ATK] Cost 3
-All Enemies: [NTR 2] {40% TRR 2}
+All Enemies: [NTR 2] [40% TRR 2] 
 
 A Rainy Night's Ghost Story
 [ATK] Cost 2

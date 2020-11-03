@@ -1,0 +1,23 @@
+Nitori
+
+HP 5	DEF 1	SPD 5
+SP 10	RES 1	EVA 2
+
+Overheating:
+
+
+Kappa's Illusionary Waterfall
+[ATK] Cost 2
+All Enemies : [CLD 1] {50% -1 DEF}
+
+Exteeeending Aaaaarm
+[ATK] Cost 2
+All Enemies : [NTR 2]
+
+Super Scope 3D
+[ATK] Cost 8
+One Enemy : [PIR 8]
+
+Portable Versatile Machine
+[ACT] Cost 2
+Self : [+1 ATK,DEF,RES]

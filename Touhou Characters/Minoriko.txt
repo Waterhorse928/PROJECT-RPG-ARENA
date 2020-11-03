@@ -1,0 +1,25 @@
+Minoriko
+
+HP 4	DEF 0	SPD 6
+SP 12	RES 4 	EVA 1
+
+Rapid Charge:
+Minoriko regains SP twice as fast.
+(Either Passively in the back or when Concentrating.)
+
+Autumn Sky
+[MAG] Cost 2
+One Enemy : [2 NTR]  Minoriko gains +2 SPD.
+
+Warm Color Harvest
+[MAG] Cost 9
+All Enemies : [X NTR] X = RES
+
+Sweet Potato Room
+[ACT] Cost 3
+One Ally : Recover 4 HP
+
+Owotoshi Harvester
+[ACT] Cost 3
+One Ally : [+2 DEF, RES]
+

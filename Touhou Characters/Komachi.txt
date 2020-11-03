@@ -1,0 +1,24 @@
+Komachi
+
+HP 15	DEF 1	SPD 3
+SP 10	RES 0	EVA 1
+
+An Eye for an Eye:
+When Komachi takes damage from an enemy’s skill,
+She gains [+1 ATK]
+
+Short Life Expectancy
+[ATK] Cost 1
+One Enemy : [BLD 2] {10% DTH}
+
+Ferriage in the Deep Fog
+[ATK] Cost 2
+Two Enemies : [CLD 1] {10% DTH}
+
+Narrow Confines of Avici
+[ATK] Cost 3
+All Enemies : [SPR 1] {30% PAR 2, TRR 2}
+
+Scythe that Chooses the Dead
+[ATK] Cost 3
+One Enemy : [BLD 5]
